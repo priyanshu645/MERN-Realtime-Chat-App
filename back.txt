@@ -1,0 +1,6 @@
+npm init -y
+npm i express mongoose dotenv jsonwebtoken bcryptjs cookie-parser cloudinary socket.io
+cls             #clears terminal
+npm i nodemon -D        #Dev Dependency
+#under pkg.jsn->scripts "dev":"nodemon index.js",#change type to module->(import express)---->npm run dev--(backend)
+alt Z (.env)
