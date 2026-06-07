@@ -4,3 +4,5 @@ cls             #clears terminal
 npm i nodemon -D        #Dev Dependency
 #under pkg.jsn->scripts "dev":"nodemon index.js",#change type to module->(import express)---->npm run dev--(backend)
 alt Z (.env)
+
+npm i cors

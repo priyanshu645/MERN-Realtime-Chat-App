@@ -1,0 +1,8 @@
+npm create vite@latest
+
+npm i react-router-dom react-hot-toast
+//paging and routing--notification
+
+npm i axios zustand
+
+npm i lucide-react  //loading...
